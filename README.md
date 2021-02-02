@@ -13,30 +13,28 @@
 
 ### Encapsulation
 
-// Encapsulation image
+![alter text](https://github.com/NashoNightmare/Advent-Of-Cyber/blob/master/Encapsulation%20process.png)
 
 ### TCP/IP Model
 
-// TCP IP model
+![alter text](https://github.com/NashoNightmare/Advent-Of-Cyber/blob/master/tcp-ip-model.png)
 
 ### Three-Way handshake (Building a stable connection over TCP)
 
-// Three-way handshake image
+![alter text]()
 
 ### NIC (Network Interface Card)
 NIC is used to connect to a digital network. Basically this means it allows your computer to speak in bits like it would talk to any other part of itself.
 
 ## HTTP
 
-// Http image 1 here
+![alter text](https://github.com/NashoNightmare/Advent-Of-Cyber/blob/master/http%20image%201.png)
 
-// Http image 2 here
-
-// Add notes from portswigger http class
+![alter text](https://github.com/NashoNightmare/Advent-Of-Cyber/blob/master/http%20image%202.png)
 
 ## DNS Routine map 
 
-// DNS Routine map image here
+![alter text](https://github.com/NashoNightmare/Advent-Of-Cyber/blob/master/DNS%20Routine%20map.png)
 
 - **Authentication** - Credential thing.
 - **Authorization** - is someone has the rights to access something.
