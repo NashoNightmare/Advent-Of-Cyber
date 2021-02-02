@@ -21,7 +21,7 @@
 
 ### Three-Way handshake (Building a stable connection over TCP)
 
-![alter text]()
+![alter text](https://github.com/NashoNightmare/Advent-Of-Cyber/blob/master/handhshake.png)
 
 ### NIC (Network Interface Card)
 NIC is used to connect to a digital network. Basically this means it allows your computer to speak in bits like it would talk to any other part of itself.
