@@ -41,6 +41,9 @@ NIC is used to connect to a digital network. Basically this means it allows your
 - **Authentication** - Credential thing.
 - **Authorization** - is someone has the rights to access something.
 
+## Port Scanning
+
+Useful port scanning script: `ports=$(nmap -T4 -p- <ip_address | grep ^[0-9] | cut -d '/' -f 1 | tr '\n' ',' | sed "s/,$//") && nmap -sC -sV -p$ports <ip_address>`
 
 
 
