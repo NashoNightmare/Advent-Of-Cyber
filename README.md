@@ -43,9 +43,9 @@ NIC is used to connect to a digital network. Basically this means it allows your
 
 ## Port Scanning
 
-- **Useful port scanning script:** `ports=$(nmap -T4 -p- <ip_address | grep ^[0-9] | cut -d '/' -f 1 | tr '\n' ',' | sed "s/,$//") && nmap -sC -sV -p$ports <ip_address>`
-
-
+- **Useful port scanning script:** `ports=$(nmap -T4 --min-rate=1000 -p- <ip_address | grep ^[0-9] | cut -d '/' -f 1 | tr '\n' ',' | sed "s/,$//") && nmap -sC -sV -p$ports <ip_address>`
+	- `--min-rate` - Send packets no slower than <number> per second.
+	- `-sV` - Same as `-A`. Probe open ports to determine service/version info.
 
 
 
