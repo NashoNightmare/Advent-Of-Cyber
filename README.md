@@ -1,5 +1,7 @@
 # Advent of Cyber - Notes
 
+I once studied cybersecurity and I remember following this amazing event called Advent of Cyber by tryhackme. It was during Christmas holydays. Really good old times. :)
+
 ![alter text](https://github.com/NashoNightmare/Advent-Of-Cyber/blob/master/THM-D3JT18NHNZ.png)
 
 ## Networking
